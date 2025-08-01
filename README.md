@@ -1,5 +1,7 @@
 # Movie-Recommendation-System
 
+**Author:** Sourav Singh
+
 **Dataset used:** 
 1. [MovieLens](https://grouplens.org/datasets/movielens/)
 2. [The Movie Database: tmdb](https://www.kaggle.com/tmdb/tmdb-movie-metadata)
